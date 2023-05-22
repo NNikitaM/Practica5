@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\bin\Debug\Zadanie5.exe.config
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\bin\Debug\Zadanie5.exe
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\bin\Debug\Zadanie5.pdb
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\App.g.cs
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.cache
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.lref
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\MainWindow.baml
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5.g.resources
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5.Properties.Resources.resources
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5.exe
+C:\Users\Nikita\source\repos\Practica5\Zadanie5\obj\Debug\Zadanie5.pdb
